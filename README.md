@@ -1,4 +1,4 @@
-# Simulating the Team-Level Cost of Boredom in Manual Order Picking
+# Simulating the Team-Level Cost of Boredom in Manual Order Picking: A Hybrid Discrete-Event and Agent-Based Simulation Study in a Manufacturing Logistics Setting
 
 A runnable hybrid simulation prototype for estimating the operational and monetary effects of employee boredom in manual picker-to-parts order picking.
 
